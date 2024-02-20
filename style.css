@@ -154,8 +154,8 @@ body {
   animation: scale 4s linear infinite;
   z-index: -1; 
   box-shadow: 0 50px 20px rgba(0,0,0,0.5); 
-  box-shadow: inset#333;
-  transform: scale(1);
+
+  
   
   /*position: absolute;
   bottom: 250px;
