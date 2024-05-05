@@ -84,9 +84,11 @@ body {
 
 .heart {
   background-color: #d62828;
+  display: inline-block;
   height: 15px;
   margin: 0 10px;
   position: relative;
+  top: 80px;
   left: 105px;
   transform: rotate(-45deg);
   width: 15px;
