@@ -85,13 +85,13 @@ body {
 .heart {
   background-color: #d62828;
   display: inline-block;
-  height: 20px;
+  height: 15px;
   margin: 0 10px;
   position: relative;
-  top: 110px;
+  top: 100px;
   left: 105px;
   transform: rotate(-45deg);
-  width: 20px;
+  width: 15px;
 }
 
 .heart:before,
