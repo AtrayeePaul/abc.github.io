@@ -10,6 +10,8 @@ body {
 
 .container {
   position: relative;
+  align-items: center;
+  justify-content: center;
 }
 .valentines {
   position: relative;
