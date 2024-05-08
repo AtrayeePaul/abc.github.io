@@ -73,10 +73,10 @@ body {
   position: absolute;
   font-family:  'times new roman', serif ;
   font-size: 1rem;
-  text-align: center;
+  
   font-weight: bold;
   justify-content: center;
-  line-height: 25px;
+  line-height: 20px;
   top: 19px;
   left: 20%;
   color: #003049;
