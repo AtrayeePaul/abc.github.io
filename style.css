@@ -33,7 +33,7 @@ body {
 }
 
 .envelope:before {
-  background-color: #170112;
+  background-color: #ffe59e;
   content: "";
   position: absolute;
   width: 212px;
